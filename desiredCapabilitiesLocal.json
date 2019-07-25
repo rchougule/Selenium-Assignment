@@ -1,0 +1,6 @@
+{
+  "desiredCapabilities": {
+    "browserName": "chrome",
+    "platform": "MAC"
+  }
+}

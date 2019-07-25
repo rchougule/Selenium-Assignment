@@ -1,0 +1,10 @@
+{
+  "desiredCapabilities": {
+    "browserName": "chrome",
+    "platform": "MAC",
+    "os" : "OS X",
+    "os_version" : "Sierra",
+    "browser_version" : "65.0",
+    "build" : "Assignment"
+  }
+}
